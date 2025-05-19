@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Ehsanul Karim. I'm a computer science graduate from Khulna University of Engineering & Technology.I'm very interested in Python, Data Science, and computer Vision!
+
+- 🔭 I’m currently working on developing lightweight architecture for medical imaging task like segmentation, denoising and classification.
+- 🌱 I recently built a 3D Model City with OpenGL as my Computer Graphics Project. check it out [here](https://youtu.be/KyK7m2BU5GI?si=0TWjJdbB6mfmnrms)
+- 👯 I’m looking to collaborate on building applications with deep learning models.
+  - Send me mail to ehsanul.karim.talha@gmail.com 
 
 <!--
 **Ehsanul-karim/Ehsanul-karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
